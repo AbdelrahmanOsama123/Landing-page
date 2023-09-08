@@ -1,6 +1,9 @@
-This is my first project, and I hope that it will be successfully done with all the conditions that is required for this project.
+# Landing Page Project
 
-*** I tryed to do the following :- ***
-1-I have built a navigation menu according to the number of sections that are existed and added on the page.
-2-I have added functionality of active class to the section that is the user want.
-3-I have implement smooth scrolling to any Section while the user make click event on the desired section.
+## Instructions
+
+The starter project has some HTML and CSS styling to display a static version of the Landing Page project. You'll need to convert this project from a static project to an interactive one. This will require modifying the HTML and CSS files, but primarily the JavaScript file.
+
+To get started, open `js/app.js` and start building out the app's functionality
+
+For specific, detailed instructions, look at the project instructions in the Udacity Classroom.
